@@ -48,5 +48,5 @@ Este proyecto se distribuye bajo la licencia MIT. Puede ser utilizado y modifica
 
 ---
 
-Si tienes alguna duda o sugerencia, no dudes en contribuir o crear un issue en el repositorio. ¡Feliz trading! 📈💰
+
 
